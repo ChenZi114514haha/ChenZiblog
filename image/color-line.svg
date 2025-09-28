@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="295mm"
+   height="8mm"
+   viewBox="0 0 295 8"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="color-line.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.23"
+     inkscape:cx="550.4065"
+     inkscape:cy="-46.747967"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ff1616;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#f4f810;stop-opacity:1;"
+         offset="0.20108695"
+         id="stop4" />
+      <stop
+         style="stop-color:#1ef30d;stop-opacity:1;"
+         offset="0.38999999"
+         id="stop5" />
+      <stop
+         style="stop-color:#11bfc5;stop-opacity:1;"
+         offset="0.59782606"
+         id="stop6" />
+      <stop
+         style="stop-color:#db00e6;stop-opacity:1;"
+         offset="0.78125"
+         id="stop7" />
+      <stop
+         style="stop-color:#f20b0b;stop-opacity:1;"
+         offset="0.93478262"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="0.30498287"
+       y1="2.8090734"
+       x2="295.25394"
+       y2="13.108918"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99927111,0,0,0.42307695,-0.21495161,1.0424484)" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient2);stroke-width:0.170916"
+       id="rect1"
+       width="294.9136"
+       height="2.3661928"
+       x="1.1076934e-07"
+       y="3.2266264" />
+  </g>
+</svg>
