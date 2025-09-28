@@ -1,20 +1,57 @@
 <!DOCTYPE html>
-<html lang="zh-Hans-CN">
+<html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>我的Blog</title>
-    <style>
-    h1{
-      text-align: center;
-      color:seagreen;
-      font-family:'Times New Roman', Times, serif;
-      font-size: 50px;
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>博客</title>
+  <style>
+    header{
+      height: 100px;
+      background-color: rgb(96, 139, 168);
+      box-shadow: rgb(33, 36, 39) 0 0 20px;
     }
-    </style>
+    h1{
+      color: white;
+      text-align: center;
+      line-height: 100px;
+      text-shadow:wheat 0 0 10px;
+    }
+    img{
+      border-radius:20%;
+      box-shadow: rgb(33, 36, 39) 0 0 20px;
+    }
+    h2{
+      text-shadow: rgb(133, 43, 218) 0 0 10px;
+    }
+    li a{
+      text-decoration: none;
+      color: rgb(0, 0, 0);
+    }
+    li a:hover{
+      color: rgb(133, 43, 218);
+      text-shadow: rgb(4, 30, 104) 0 0 10px;
+      text-decoration: underline;
+    }
+    li::marker{
+      content: "➤ ";
+    }
+  </style>
 </head>
 <body>
-    <h1>●陳子的Blog●</h1>
-    
+  <header>
+    <img src="image/pro.gif" alt="Logo"  style="height: 150px; position: absolute; top: 10px; left: 20px;">
+    <h1 style="color: white; text-align: center; line-height: 100px;">博客/Blog</h1>
+  </header>
+  <main>
+<pre><!--空格勿删-->
+
+
+</pre><!--空格勿删-->
+    <h2>博客列表</h2>
+    <ul>
+      <li><a href="b01.html"> 博客：第一篇关于写网络博客</a></li>
+
+    </ul>
+  </main>
 </body>
 </html>
